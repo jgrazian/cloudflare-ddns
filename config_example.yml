@@ -1,0 +1,8 @@
+api_token: API_TOKEN
+zone_id: ZONE_ID
+ttl: 300
+subdomains:
+  - name: ""
+    proxied: true
+  - name: www
+    proxied: true
